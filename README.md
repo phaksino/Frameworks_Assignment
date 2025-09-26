@@ -15,3 +15,19 @@ This project analyzes the CORD-19 dataset containing COVID-19 research paper met
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+Usage
+Download metadata.csv from CORD-19 dataset
+
+Run analysis: python cord19_analysis.py
+
+Launch app: streamlit run app.py
+
+Key Findings
+Rapid growth in COVID-19 publications since 2020
+
+Top journals: BMJ, Lancet, JAMA, etc.
+
+Research focuses on clinical studies and public health
+
+Global collaboration evident in publication sources
